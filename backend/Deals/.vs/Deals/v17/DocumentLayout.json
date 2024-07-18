@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Enhanzer\\backend\\Deals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Enhanzer\\backend\\Deals\\Deals.API\\Migrations\\20240717154350_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deals.API\\Migrations\\20240717154350_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|f:\\enhanzer\\backend\\deals\\deals.api\\controllers\\dealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|solutionrelative:deals.api\\controllers\\dealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|f:\\enhanzer\\backend\\deals\\deals.api\\data\\dealsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|solutionrelative:deals.api\\data\\dealsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|f:\\enhanzer\\backend\\deals\\deals.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|solutionrelative:deals.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|f:\\enhanzer\\backend\\deals\\deals.api\\models\\deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|solutionrelative:deals.api\\models\\deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|f:\\enhanzer\\backend\\deals\\deals.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBC339EC-3C6B-49D6-B85A-BF6528D4DBED}|Deals.API\\Deals.API.csproj|solutionrelative:deals.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DealsController.cs",
+              "DocumentMoniker": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Controllers\\DealsController.cs",
+              "RelativeDocumentMoniker": "Deals.API\\Controllers\\DealsController.cs",
+              "ToolTip": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Controllers\\DealsController.cs",
+              "RelativeToolTip": "Deals.API\\Controllers\\DealsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:51:29.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240717154350_initial.cs",
+              "DocumentMoniker": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Migrations\\20240717154350_initial.cs",
+              "RelativeDocumentMoniker": "Deals.API\\Migrations\\20240717154350_initial.cs",
+              "ToolTip": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Migrations\\20240717154350_initial.cs",
+              "RelativeToolTip": "Deals.API\\Migrations\\20240717154350_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:43:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Program.cs",
+              "RelativeDocumentMoniker": "Deals.API\\Program.cs",
+              "ToolTip": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Program.cs",
+              "RelativeToolTip": "Deals.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:37:44.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Deals.API\\appsettings.json",
+              "ToolTip": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\appsettings.json",
+              "RelativeToolTip": "Deals.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T15:32:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DealsDbContext.cs",
+              "DocumentMoniker": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Data\\DealsDbContext.cs",
+              "RelativeDocumentMoniker": "Deals.API\\Data\\DealsDbContext.cs",
+              "ToolTip": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Data\\DealsDbContext.cs",
+              "RelativeToolTip": "Deals.API\\Data\\DealsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:06:19.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deal.cs",
+              "DocumentMoniker": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Models\\Deal.cs",
+              "RelativeDocumentMoniker": "Deals.API\\Models\\Deal.cs",
+              "ToolTip": "F:\\Enhanzer\\backend\\Deals\\Deals.API\\Models\\Deal.cs",
+              "RelativeToolTip": "Deals.API\\Models\\Deal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:55:24.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

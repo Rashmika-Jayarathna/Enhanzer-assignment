@@ -1,0 +1,15 @@
+# Ignore Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore packages
+*.nuget.props
+*.paket.props
+*.paket.targets
+!packages.config
+packages/
